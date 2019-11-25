@@ -1,0 +1,22 @@
+{
+  "name": "tp_02_expressjs_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphPortland/NodeJs_homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphPortland/NodeJs_homework/issues"
+  },
+  "homepage": "https://github.com/RaphPortland/NodeJs_homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
